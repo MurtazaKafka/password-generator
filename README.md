@@ -1,4 +1,4 @@
-# password-generator
+# password-generator by Murtaza Kafka
 Never use an insecure password again.
 
 What is a Password Generator?
